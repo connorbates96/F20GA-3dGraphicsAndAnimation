@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\objloader.h(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\astarsearch.h(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\astarsearch.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\astarsearch.h(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\astarsearch.h(168): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\world.h(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\source.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\source.cpp(447): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\source.cpp(450): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\source.cpp(451): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\connor bates\documents\visual studio 2015\projects\f20ga_coursework\f20ga_coursework\source.cpp(452): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  F20GA_Coursework.vcxproj -> C:\Users\Connor Bates\documents\visual studio 2015\Projects\F20GA_Coursework\Debug\F20GA_Coursework.exe
+  F20GA_Coursework.vcxproj -> C:\Users\Connor Bates\documents\visual studio 2015\Projects\F20GA_Coursework\Debug\F20GA_Coursework.pdb (Partial PDB)
